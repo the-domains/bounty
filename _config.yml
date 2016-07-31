@@ -1,0 +1,14 @@
+layout_spectrum: 0.8518846621736884
+typography_spectrum: 0.6331657897680998
+color:
+  brandStrength: 0.171411891002208
+  lightness: 0.5518559070769697
+  saturation: 0.8912192571442574
+  rhythmicContrast: 0.5749767934903502
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: bounty
